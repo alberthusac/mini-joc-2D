@@ -17,7 +17,3 @@ Acesta este un proiect personal dezvoltat în **C#** utilizând framework-ul **W
 * **Limbaj:** C#
 * **Platformă:** .NET (Windows Forms)
 * **IDE:** Visual Studio 2022
-
-## 📂 Structura Proiectului
-* `Form1.cs`: Conține logica principală a jocului, gestionarea matricei de obstacole și detectarea coliziunilor.
-* `img/`: Folderul ce conține resursele grafice (sosea.png, balot.png, masinuta.png).
